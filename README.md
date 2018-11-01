@@ -25,13 +25,13 @@ Instructions on how to install `WebdriverIO` can be found [here.](http://webdriv
 
 ## Configuration
 
-In order to use the service you need to add `selenium-standalone` to your service array:
+In order to use the service you need to add `trueautomation` to your service array:
 
 ```js
 // wdio.conf.js
 export.config = {
   // ...
-  services: ['selenium-standalone'],
+  services: ['trueautomation'],
   // ...
 };
 ```
