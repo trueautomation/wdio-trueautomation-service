@@ -1,7 +1,8 @@
 WDIO TrueAutomation.IO Service
 =========
 
-This service allows to run TrueAutomation.IO tests with the [WDIO TestRunner](http://webdriver.io/guide/testrunner/gettingstarted.html).
+This service allows to run TrueAutomation.IO tests with the [WDIO TestRunner](http://webdriver.io/guide/testrunner/gettingstarted.html). 
+It should be used with [trueautomation-helper](https://github.com/trueautomation/trueautomation-helper-js) module.
 
 ## Installation
 
