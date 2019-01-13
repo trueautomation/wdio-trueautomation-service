@@ -1,2 +1,2 @@
-const TrueautomationLauncher = require('./build/trueautomationLauncher').default;
+const TrueautomationLauncher = require('./build/launcher').default;
 module.exports = new TrueautomationLauncher();

@@ -1,8 +1,8 @@
 {
   "name": "wdio-trueautomation-service",
   "description": "TrueAutomation.IO integration for webdriver.io",
-  "main": "index.js",
-  "version": "0.3.4",
+  "main": "./build",
+  "version": "0.3.5",
   "keywords": [
     "trueautomation",
     "trueautomation.io",
