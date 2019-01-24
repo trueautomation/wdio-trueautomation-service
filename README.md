@@ -37,6 +37,26 @@ export.config = {
 };
 ```
 
+## Remote webdriver
+
+By default TrueAutomation.IO works only with local webdrivers managed by its client.
+To connect to remote webdriver use `remote` option in `wdio.conf.js`:
+
+```js
+// wdio.conf.js
+export.config = {
+  // ...
+  services: ['trueautomation'],
+  remote: true,
+  hostname: 'example.com',
+  port: 4444
+  // ...
+};
+```
+
+In this case TrueAutomation.IO client will be started locally on port 9151 and
+connect to remote webdriver specified in wdio config options.
+
 ## Options
 
 ### trueautomationLog
