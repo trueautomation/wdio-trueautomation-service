@@ -2,7 +2,7 @@
   "name": "wdio-trueautomation-service",
   "description": "TrueAutomation.IO integration for webdriver.io",
   "main": "./build",
-  "version": "0.3.9",
+  "version": "0.4.0",
   "keywords": [
     "trueautomation",
     "trueautomation.io",

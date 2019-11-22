@@ -11,7 +11,7 @@ The easiest way is to keep `wdio-trueautomation-service` as a devDependency in y
 ```json
 {
   "devDependencies": {
-    "wdio-trueautomation-service": "~0.3"
+    "wdio-trueautomation-service": "~0.4"
   }
 }
 ```
